@@ -18,7 +18,7 @@ import {
 const VIDEO_DATA = [
   {
     id: "3Fh7tIRwM0Q",
-    title: "Sérénité Divine",
+    title: "Jesus et Mary dans l'islam",
     description: "Une récitation apaisante qui invite à la réflexion sur la création et la paix intérieure.",
     category: "Méditation",
     isShort: false
@@ -39,7 +39,7 @@ const VIDEO_DATA = [
   },
   {
     id: "-qjukEBSSu8",
-    title: "Paroles de Paix",
+    title: "Miracles Scientifiques",
     description: "Le Coran comme source de tranquillité dans un monde mouvementé.",
     category: "Paix",
     isShort: true
