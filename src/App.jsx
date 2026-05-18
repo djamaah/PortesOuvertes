@@ -50,6 +50,13 @@ const VIDEO_DATA = [
     description: "Une invitation à écouter avec le cœur et à ressentir la profondeur des mots.",
     category: "Spiritualité",
     isShort: true
+  },
+  {
+    id: "uvGZKDIQFwM",
+    title: "Le succès et la félicité ... dans la prière",
+    description: "Découvrez comment la prière est la clé du succès et de la félicité véritable.",
+    category: "Prière",
+    isShort: false
   }
 ];
 
