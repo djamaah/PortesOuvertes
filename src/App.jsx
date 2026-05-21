@@ -17,17 +17,10 @@ import {
 
 const VIDEO_DATA = [
   {
-    id: "3Fh7tIRwM0Q",
-    title: "Jesus et Mary dans l'islam",
-    description: "Une récitation apaisante qui invite à la réflexion sur la création et la paix intérieure.",
-    category: "Méditation",
-    isShort: false
-  },
-  {
-    id: "WGO7EeJReH0",
-    title: "L'Espoir Infini",
-    description: "Découvrez des versets rappelant la miséricorde et le soutien constant du Créateur.",
-    category: "Espoir",
+    id: "uvGZKDIQFwM",
+    title: "Le succès et la félicité ... dans la prière",
+    description: "Découvrez comment la prière est la clé du succès et de la félicité véritable.",
+    category: "Prière",
     isShort: false
   },
   {
@@ -52,13 +45,6 @@ const VIDEO_DATA = [
     isShort: true
   },
   {
-    id: "uvGZKDIQFwM",
-    title: "Le succès et la félicité ... dans la prière",
-    description: "Découvrez comment la prière est la clé du succès et de la félicité véritable.",
-    category: "Prière",
-    isShort: false
-  },
-  {
     id: "JlPIopewp1E",
     title: "Le Mieux Répondant...pour celui qui l'invoque",
     description: "Allah est le Mieux Répondant à l'invocation de celui qui L'appelle avec sincérité.",
@@ -70,6 +56,20 @@ const VIDEO_DATA = [
     title: "Le jour et la nuit: des bénédictions divines",
     description: "Réflexion sur l'alternance du jour et de la nuit comme signes et bénédictions du Créateur.",
     category: "Réflexion",
+    isShort: false
+  },
+  {
+    id: "3Fh7tIRwM0Q",
+    title: "Jesus et Mary dans l'islam",
+    description: "Une récitation apaisante qui invite à la réflexion sur la création et la paix intérieure.",
+    category: "Méditation",
+    isShort: false
+  },
+  {
+    id: "WGO7EeJReH0",
+    title: "L'Espoir Infini",
+    description: "Découvrez des versets rappelant la miséricorde et le soutien constant du Créateur.",
+    category: "Espoir",
     isShort: false
   }
 ];
