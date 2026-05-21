@@ -64,6 +64,13 @@ const VIDEO_DATA = [
     description: "Allah est le Mieux Répondant à l'invocation de celui qui L'appelle avec sincérité.",
     category: "Invocation",
     isShort: true
+  },
+  {
+    id: "qG6nEgkXi0Q",
+    title: "Le jour et la nuit: des bénédictions divines",
+    description: "Réflexion sur l'alternance du jour et de la nuit comme signes et bénédictions du Créateur.",
+    category: "Réflexion",
+    isShort: false
   }
 ];
 
