@@ -25,7 +25,7 @@ const VIDEO_DATA = [
   },
   {
     id: "VSGr54V8zNk",
-    title: "Lumière du Cœur",
+    title: "L'eau divine...une bénédiction divine",
     description: "Un court instant de spiritualité pour illuminer votre journée.",
     category: "Sagesse",
     isShort: true
@@ -39,7 +39,7 @@ const VIDEO_DATA = [
   },
   {
     id: "234zwAUdp4U",
-    title: "L'Éveil Spirituel",
+    title: "Le plus noble est le plus pieux",
     description: "Une invitation à écouter avec le cœur et à ressentir la profondeur des mots.",
     category: "Spiritualité",
     isShort: true
