@@ -17,8 +17,8 @@ import {
 
 const VIDEO_DATA = [
   {
-    id: "uvGZKDIQFwM",
-    title: "Le succès et la félicité ... dans la prière",
+    id: "aTSRrA_BV9U",
+    title: "Adhan appel à la prière",
     description: "Découvrez comment la prière est la clé du succès et de la félicité véritable.",
     category: "Prière",
     isShort: false
