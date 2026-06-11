@@ -24,17 +24,31 @@ const VIDEO_DATA = [
     isShort: false
   },
   {
+    id: "N9gwaQ6vc2g",
+    title: "Jesus et Mary dans l'islam",
+    description: "Une récitation apaisante qui invite à la réflexion sur la création et la paix intérieure.",
+    category: "Méditation",
+    isShort: false
+  },
+  {
+    id: "qG6nEgkXi0Q",
+    title: "Le jour et la nuit: des bénédictions divines",
+    description: "Réflexion sur l'alternance du jour et de la nuit comme signes et bénédictions du Créateur.",
+    category: "Réflexion",
+    isShort: false
+  },
+  {
+    id: "JlPIopewp1E",
+    title: "Le Mieux Répondant...pour celui qui l'invoque",
+    description: "Allah est le Mieux Répondant à l'invocation de celui qui L'appelle avec sincérité.",
+    category: "Invocation",
+    isShort: true
+  },
+  {
     id: "VSGr54V8zNk",
     title: "L'eau divine...une bénédiction divine",
     description: "Un court instant de spiritualité pour illuminer votre journée.",
     category: "Sagesse",
-    isShort: true
-  },
-  {
-    id: "-qjukEBSSu8",
-    title: "Miracles Scientifiques",
-    description: "Le Coran comme source de tranquillité dans un monde mouvementé.",
-    category: "Paix",
     isShort: true
   },
   {
@@ -45,25 +59,11 @@ const VIDEO_DATA = [
     isShort: true
   },
   {
-    id: "JlPIopewp1E",
-    title: "Le Mieux Répondant...pour celui qui l'invoque",
-    description: "Allah est le Mieux Répondant à l'invocation de celui qui L'appelle avec sincérité.",
-    category: "Invocation",
+    id: "-qjukEBSSu8",
+    title: "Miracles Scientifiques",
+    description: "Le Coran comme source de tranquillité dans un monde mouvementé.",
+    category: "Paix",
     isShort: true
-  },
-  {
-    id: "qG6nEgkXi0Q",
-    title: "Le jour et la nuit: des bénédictions divines",
-    description: "Réflexion sur l'alternance du jour et de la nuit comme signes et bénédictions du Créateur.",
-    category: "Réflexion",
-    isShort: false
-  },
-  {
-    id: "N9gwaQ6vc2g",
-    title: "Jesus et Mary dans l'islam",
-    description: "Une récitation apaisante qui invite à la réflexion sur la création et la paix intérieure.",
-    category: "Méditation",
-    isShort: false
   }
 ];
 
