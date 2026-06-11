@@ -64,13 +64,6 @@ const VIDEO_DATA = [
     description: "Une récitation apaisante qui invite à la réflexion sur la création et la paix intérieure.",
     category: "Méditation",
     isShort: false
-  },
-  {
-    id: "WGO7EeJReH0",
-    title: "L'Espoir Infini",
-    description: "Découvrez des versets rappelant la miséricorde et le soutien constant du Créateur.",
-    category: "Espoir",
-    isShort: false
   }
 ];
 
